@@ -24,7 +24,7 @@ Total
  # Greater/Less than: > or < 
  # Greater/Less than or equal to : >= or <=
 
-# Does 5 equal 4?
+# Does 8 equal 2?
  8 == 2
 # Is 10 less than or equal to 15
  10 <= 15
