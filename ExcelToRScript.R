@@ -31,3 +31,13 @@ Total
 # Does TRUE not equal TRUE?
  TRUE !=TRUE
  
+ # General Data Analysis
+ # What is the distribution of player's age?
+ library(tidyverse)
+ players =read_csv("Master.csv")
+ glimpse(players)
+ Batting = read_csv("Batting.csv")
+ # Getting the first 5 rows and 6 columns
+ players[1:5,1:6]
+ Batting[1:5,1:10]
+ 
